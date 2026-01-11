@@ -5,5 +5,5 @@ Applied Data Science student currently focusing on learning about data analysis,
 - Imbalanced Classification Analysis (Healthcare Data)
 - Air Quality Analysis (Environmental Data)
 
-### Skills
+--
 Python • Data Analysis • Statistics • Data Visualization
