@@ -11,4 +11,4 @@ An Applied Data Science student currently **learning and practicing** data analy
 >>>
 
 ### Currently Learning
-Python • Data Analysis • Statistics • Data Visualization
+Python • Data Analysis • Statistics • Data Visualization • Machine Learning
